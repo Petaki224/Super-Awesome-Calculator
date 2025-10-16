@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+.buildozer/
+.cache/
+.eggs/
+*.egg-info/
+
+# PyInstaller / build
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
